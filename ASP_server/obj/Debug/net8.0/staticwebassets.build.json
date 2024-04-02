@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mPV7H5oPK2oYx1zq8oAkEzCOnX8osxJkFhGzMDG39ew=",
+  "Source": "EventSchedule",
+  "BasePath": "_content/EventSchedule",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
